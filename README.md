@@ -7,3 +7,4 @@ Which vendors/plants are causing the greatest downtime?
 Is there a particular combination of material and vendor that perform poorly?
 Is there a particular combination of Vendor and plant that performs poorly?
 How does the same vendor and material perform across different plants?
+- <a href="https://github.com/Zeeyusuph/Data-Analysis-Dashboard/blob/main/SUPPLIER%20INSIGHT%20DASHBOARD.pbix">Dataset</a>
